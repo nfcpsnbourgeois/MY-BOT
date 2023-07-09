@@ -1,0 +1,39 @@
+{
+  "content": "Hey, welcome to <:discohook:736648398081622016> **Discohook**! The easiest way to personalise your Discord server.\n\nThere's more info below, but you don't have to read it. If you're ready press **Clear All** in the top of the editor to get started.\n\nDiscohook has a [support server](https://discohook.app/discord), if you need help feel free to join in and ask questions, suggest features, or just chat with the community.\n\nWe also have [complementary bot](https://discohook.app/bot) that may help out, featuring reaction roles and other utilities.\n_ _",
+  "embeds": [
+    {
+      "title": "🌟 Bienvenue dans notre serveur Discord ! 🌟",
+      "description": "✨ Quelle que soit votre background ou vos centres d'intérêt, vous êtes les bienvenus parmi nous ! Geek, travailleur, étudiants, ou même chômeur  notre communauté vous ouvre ses portes chaleureusement. 🤗\n\n💬 Notre serveur est un lieu convivial où règne la __bienveillance__, le __respect__ et l'__entraide.__ 🤝 Quels que soient vos intérêts, vous trouverez toujours quelqu'un pour discuter, s'entraider et passer de bons moments ensemble.\n\n🎉🎉 Rejoignez-nous dès maintenant et faites partie de cette communauté extraordinaire ! \n\nPour toute question ou assistance, notre équipe de modérateurs est là pour vous aider. ❓\n\nℹ️** Le serveur est fractionné en différentes catégories**",
+      "color": 44543
+    },
+    {
+      "title": "🛖 Découvre les différentes catégories 🔭",
+      "description": "Je te laisse cliquer sur les réactions.",
+      "color": 12605975,
+      "fields": [
+        {
+          "name": "💻 Informatique - sécurité",
+          "value": "> Rejoignez notre salon dédié à l'informatique pour discuter des dernières technologies, poser des questions, partager des astuces et échanger sur les sujets liés à l'univers technologique."
+        },
+        {
+          "name": "💬 Discussion",
+          "value": "> Exprimez-vous librement dans notre salon de discussion. Partagez vos idées, engagez des conversations enrichissantes et connectez-vous avec d'autres membres de la communauté qui partagent vos intérêts."
+        },
+        {
+          "name": "📈 Trading",
+          "value": "> Si vous êtes passionné par le trading et les marchés financiers, rejoignez notre salon dédié au trading. Discutez des stratégies, partagez des conseils et restez informé des dernières tendances."
+        },
+        {
+          "name": "📉 Crypto",
+          "value": "> Plongez dans l'univers des cryptomonnaies dans notre salon dédié aux cryptos. Échangez des informations, discutez des dernières actualités et partagez votre expertise sur le sujet."
+        }
+      ]
+    },
+    {
+      "title": "Sécurité du serveur",
+      "description": "✅ Validé par <@622328536048467968> le développeur du serveur et du robot: <@1064106495509270600>",
+      "color": null
+    }
+  ],
+  "attachments": []
+}
